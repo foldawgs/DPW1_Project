@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAVIGASI */
+.navbar-nav .btn{
+    background-color: #D44C00;
+    border: none;
+    border-radius: 5px;
+    width: 130px;
+    margin: 10px;
+}
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: 900;
+    color: #D44C00;
+}
+
+/* JUMBOTRON */
+.jumbotron {
+    background-color: #D44C00;
+    color: white;
+}
+
+.jumbotron h1 {
+    font-family: 'Roboto';
+    font-size: 40px;
+}
+
+.jumbotron h2 {
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+
+.jumbotron .btn {
+    background: #fff;
+    color: #D44C00;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+
+.jumbotron img{
+    width: 840px;
+    align-items: center;
+    padding-bottom: 0%;
+}
+
+/* Minuman Favorit */
+.fav-drink .drink img{
+    width: 150px;
+}
+
+.fav-drink{
+    color: #D44C00;
+}
+
+
+/* Profile */
+.profile{
+    background-color: #D44C00;
+}
+
+.profile .title{
+    padding-top: 120px;
+}
+
+.profile .decs-profile{
+    padding-left: 100px;
+}
+
+
+footer {
+    font-size: 16px;
+    line-height: 32px;
+    color: #B7B7B7;
+}
